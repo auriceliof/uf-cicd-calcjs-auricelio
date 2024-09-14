@@ -3,5 +3,6 @@
  
     // Exportar as funções     module.exports = { 
         add 
+        subtract 
     };     
 
