@@ -28,10 +28,10 @@
 
     // Exportar as funçes    
        module.exports = { 
-        add 
-        subtract
-        divide  
-        multiply 
+        add, 
+        subtract,
+        divide,  
+        multiply, 
         power 
     };     
 
