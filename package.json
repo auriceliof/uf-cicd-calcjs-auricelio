@@ -1,7 +1,7 @@
 {
   "name": "uf-cicd-calcjs-auricelio",
   "version": "1.0.0",
-  "description": "Meu trabalho",
+  "description": ": Meu trabalho",
   "main": "index.js",
   "scripts": {
     "test": "jest"
